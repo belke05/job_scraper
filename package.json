@@ -1,0 +1,22 @@
+{
+  "name": "job_scraper",
+  "version": "1.0.0",
+  "description": "platform used to give return a programmer job offers from multiple job-sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belke05/job_scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belke05/job_scraper/issues"
+  },
+  "homepage": "https://github.com/belke05/job_scraper#readme"
+}
